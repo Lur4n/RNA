@@ -5,3 +5,7 @@
     b) Interpolação
   2.2 Pontos Atípicos
   2.3 Scaler
+3 - Divisão de Conjuntos
+4 - Dataset do Treino
+5 - MIX
+6 - Treinar
